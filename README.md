@@ -7,9 +7,7 @@
 ## Ferramentas e Tecnologias
 
 
-            <i class="devicon-python-plain-wordmark colored"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
           
 
           
-          
-
